@@ -171,7 +171,7 @@ body {
 .abs-img { display: none; }
 
 .section-subtitle {
-  color: var(--ultramarine-blue);
+  color: #0a6fbd;
   text-transform: uppercase;
   font-weight: var(--fw-800);
   letter-spacing: 2px;
@@ -209,7 +209,7 @@ body {
 }
 
 .btn-primary {
-  background-color: var(--ultramarine-blue);
+  background-color: #0a6fbd;
   color: var(--white);
 }
 
@@ -217,7 +217,7 @@ body {
 
 .btn-secondary {
   background-color: var(--white);
-  color: var(--ultramarine-blue);
+  color: #0a6fbd;
 }
 
 .btn-secondary:is(:hover, :focus) {
@@ -271,7 +271,7 @@ body {
 }
 
 .logo {
-  color: var(--ultramarine-blue);
+  color: #0a6fbd;
 
 }
 
@@ -283,7 +283,7 @@ body {
 
 .header-action-btn {
   background-color: var(--white);
-  color: var(--ultramarine-blue);
+  color: #0a6fbd;
   padding: 12px;
   border-radius: var(--radius-4);
   box-shadow: var(--shadow-1);
@@ -339,7 +339,7 @@ body {
   transition: var(--transition-1);
 }
 
-.navbar-link:is(:hover, :focus) { color: var(--ultramarine-blue); }
+.navbar-link:is(:hover, :focus) { color: #0a6fbd; }
 
 .overlay {
   position: fixed;
@@ -465,7 +465,7 @@ body {
 .category-card {
   --title-color: var(--space-cadet-2);
   --meta-color: var(--old-lavender);
-  --icon-color: var(--ultramarine-blue);
+  --icon-color: #0a6fbd;
   --icon-bg: var(--white);
 
   background-color: var(--cultured-1);
@@ -503,7 +503,7 @@ body {
   --icon-color: var(--white);
   --icon-bg: var(--white_10);
 
-  background-color: var(--ultramarine-blue);
+  background-color: #0a6fbd;
 }
 
 
@@ -601,7 +601,7 @@ body {
 
 .course-card .badge {
   background-color: var(--white);
-  color: var(--ultramarine-blue);
+  color: #0a6fbd;
   font-size: var(--fs-6);
   font-weight: var(--fw-600);
   padding: 4px 12px;
@@ -647,7 +647,7 @@ body {
   transition: var(--transition-1);
 }
 
-.course-card .card-title:is(:hover, :focus) { color: var(--ultramarine-blue); }
+.course-card .card-title:is(:hover, :focus) { color: #0a6fbd; }
 
 .course-card .rating {
   display: flex;
@@ -682,7 +682,7 @@ body {
 }
 
 .course-card .card-price .span {
-  color: var(--ultramarine-blue);
+  color: #0a6fbd;
   font-size: var(--fs-4);
   font-weight: var(--fw-700);
 }
@@ -698,7 +698,7 @@ body {
 \*-----------------------------------*/
 
 .cta {
-  background-color: var(--ultramarine-blue);
+  background-color: #0a6fbd;
   color: var(--white);
   background-repeat: no-repeat;
   background-size: auto;
@@ -745,7 +745,7 @@ body {
   position: absolute;
   top: 25px;
   left: 0;
-  background-color: var(--ultramarine-blue);
+  background-color: #0a6fbd;
   color: var(--white);
   padding: 5px 15px;
   border-radius: 0 50px 50px 0;
@@ -762,7 +762,7 @@ body {
 }
 
 .event-card .card-address ion-icon {
-  color: var(--ultramarine-blue);
+  color: #0a6fbd;
   --ionicon-stroke-width: 40px;
 }
 
@@ -774,10 +774,10 @@ body {
 
 .event-card .card-title { transition: var(--transition-1); }
 
-.event-card .card-title:is(:hover, :focus) { color: var(--ultramarine-blue); }
+.event-card .card-title:is(:hover, :focus) { color: #0a6fbd; }
 
 .event-card .btn-link {
-  color: var(--ultramarine-blue);
+  color: #0a6fbd;
   font-size: var(--fs-5);
   font-weight: var(--fw-700);
   max-width: max-content;
@@ -788,7 +788,7 @@ body {
   transition: var(--transition-1);
 }
 
-.event-card .btn-link:is(:hover, :focus) { border-color: var(--ultramarine-blue); }
+.event-card .btn-link:is(:hover, :focus) { border-color: #0a6fbd; }
 
 
 
@@ -865,7 +865,7 @@ body {
   transition: var(--transition-1);
 }
 
-.social-link:is(:hover, :focus) { background-color: var(--ultramarine-blue); }
+.social-link:is(:hover, :focus) { background-color: #0a6fbd; }
 
 .footer-list-title {
   font-size: var(--fs-3);
@@ -885,7 +885,7 @@ body {
   transition: var(--transition-1);
 }
 
-.footer-link:not(address):is(:hover, :focus) { color: var(--ultramarine-blue); }
+.footer-link:not(address):is(:hover, :focus) { color: #0a6fbd; }
 
 .footer-item { align-items: baseline; }
 
@@ -904,7 +904,7 @@ body {
   transition: var(--transition-1);
 }
 
-.copyright-link:is(:hover, :focus) { color: var(--ultramarine-blue); }
+.copyright-link:is(:hover, :focus) { color: #0a6fbd; }
 
 
 
@@ -1047,7 +1047,7 @@ body {
     display: flex;
     align-items: center;
     gap: 8px;
-    background-color: var(--ultramarine-blue);
+    background-color: #0a6fbd;
     color: var(--white);
     min-height: 50px;
     padding-inline: 25px;
