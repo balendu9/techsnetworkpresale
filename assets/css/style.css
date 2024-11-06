@@ -836,7 +836,7 @@ body {
 
 .footer {
   /* background-color: var(--space-cadet-2); */
-  background: url('/eduhome-master/assets/images/footer2.png') ;
+  background: url('/assets/images/footer2.png') ;
   background-size: cover;
   color: var(--white);
 }
